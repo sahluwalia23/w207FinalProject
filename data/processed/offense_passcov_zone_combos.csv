@@ -1,0 +1,95 @@
+,offenseFormation,pff_passCoverage,pff_manZone,count
+59,SHOTGUN,Cover-3,Zone,2213
+56,SHOTGUN,Cover-1,Man,1920
+77,SINGLEBACK,Cover-3,Zone,1686
+58,SHOTGUN,Cover-2,Zone,1192
+68,SHOTGUN,Quarters,Zone,1170
+74,SINGLEBACK,Cover-1,Man,783
+23,I_FORM,Cover-3,Zone,470
+54,SHOTGUN,Cover 6-Left,Zone,454
+64,SHOTGUN,Cover-6 Right,Zone,436
+83,SINGLEBACK,Quarters,Zone,435
+63,SHOTGUN,Cover-3 Seam,Zone,413
+76,SINGLEBACK,Cover-2,Zone,329
+69,SHOTGUN,Red Zone,Other,312
+55,SHOTGUN,Cover-0,Man,309
+44,PISTOL,Cover-3,Zone,271
+4,EMPTY,Cover-1,Man,267
+7,EMPTY,Cover-3,Zone,266
+15,EMPTY,Quarters,Zone,243
+6,EMPTY,Cover-2,Zone,193
+20,I_FORM,Cover-1,Man,180
+52,SHOTGUN,2-Man,Man,148
+81,SINGLEBACK,Cover-6 Right,Zone,144
+73,SINGLEBACK,Cover-0,Man,140
+84,SINGLEBACK,Red Zone,Other,114
+42,PISTOL,Cover-1,Man,113
+72,SINGLEBACK,Cover 6-Left,Zone,111
+50,PISTOL,Quarters,Zone,108
+80,SINGLEBACK,Cover-3 Seam,Zone,104
+29,I_FORM,Quarters,Zone,98
+11,EMPTY,Cover-3 Seam,Zone,95
+22,I_FORM,Cover-2,Zone,94
+3,EMPTY,Cover-0,Man,71
+2,EMPTY,Cover 6-Left,Zone,64
+53,SHOTGUN,Bracket,Other,62
+36,JUMBO,Goal Line,Other,53
+12,EMPTY,Cover-6 Right,Zone,46
+16,EMPTY,Red Zone,Other,45
+57,SHOTGUN,Cover-1 Double,Man,43
+18,I_FORM,Cover 6-Left,Zone,43
+67,SHOTGUN,Prevent,Other,43
+82,SINGLEBACK,Goal Line,Other,42
+27,I_FORM,Cover-6 Right,Zone,39
+43,PISTOL,Cover-2,Zone,37
+19,I_FORM,Cover-0,Man,34
+30,I_FORM,Red Zone,Other,30
+28,I_FORM,Goal Line,Other,27
+41,PISTOL,Cover-0,Man,25
+88,WILDCAT,Cover-3,Zone,25
+34,JUMBO,Cover-3,Zone,25
+48,PISTOL,Cover-6 Right,Zone,24
+32,JUMBO,Cover-1,Man,24
+0,EMPTY,2-Man,Man,24
+61,SHOTGUN,Cover-3 Cloud Right,Zone,21
+51,PISTOL,Red Zone,Other,21
+40,PISTOL,Cover 6-Left,Zone,20
+65,SHOTGUN,Goal Line,Other,19
+60,SHOTGUN,Cover-3 Cloud Left,Zone,18
+92,WILDCAT,Quarters,Zone,17
+85,WILDCAT,Cover-0,Man,16
+47,PISTOL,Cover-3 Seam,Zone,13
+86,WILDCAT,Cover-1,Man,12
+1,EMPTY,Bracket,Other,11
+93,WILDCAT,Red Zone,Other,10
+66,SHOTGUN,Miscellaneous,Other,10
+26,I_FORM,Cover-3 Seam,Zone,10
+31,JUMBO,Cover-0,Man,10
+70,SINGLEBACK,2-Man,Man,10
+62,SHOTGUN,Cover-3 Double Cloud,Zone,8
+38,JUMBO,Red Zone,Other,5
+75,SINGLEBACK,Cover-1 Double,Man,5
+78,SINGLEBACK,Cover-3 Cloud Left,Zone,5
+33,JUMBO,Cover-2,Zone,4
+5,EMPTY,Cover-1 Double,Man,4
+79,SINGLEBACK,Cover-3 Cloud Right,Zone,4
+87,WILDCAT,Cover-2,Zone,3
+9,EMPTY,Cover-3 Cloud Right,Zone,3
+17,I_FORM,2-Man,Man,3
+13,EMPTY,Miscellaneous,Other,3
+8,EMPTY,Cover-3 Cloud Left,Zone,3
+14,EMPTY,Prevent,Other,3
+49,PISTOL,Goal Line,Other,3
+45,PISTOL,Cover-3 Cloud Left,Zone,3
+21,I_FORM,Cover-1 Double,Man,2
+71,SINGLEBACK,Bracket,Other,2
+37,JUMBO,Quarters,Zone,2
+90,WILDCAT,Goal Line,Other,2
+46,PISTOL,Cover-3 Cloud Right,Zone,2
+25,I_FORM,Cover-3 Cloud Right,Zone,1
+10,EMPTY,Cover-3 Double Cloud,Zone,1
+35,JUMBO,Cover-3 Seam,Zone,1
+39,PISTOL,2-Man,Man,1
+89,WILDCAT,Cover-6 Right,Zone,1
+91,WILDCAT,Miscellaneous,Other,1
+24,I_FORM,Cover-3 Cloud Left,Zone,1
